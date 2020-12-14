@@ -1,0 +1,8 @@
+{
+  "name": "kerkroy/tablegenerator",
+  "autoload": {
+    "psr-4" : {
+      "kerkroy\\TableGenerator\\" : "src"
+    }
+  }
+}
